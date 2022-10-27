@@ -1,5 +1,5 @@
 # Front-End Developer's Assignment
-**A simple task for checking your frontend development skills.**
+**Simple tasks for checking your frontend development skills.**
 
 
 ### Requirements/perequisites:
@@ -21,6 +21,6 @@ Please visit https://finanzvergleich.com/kostenloses-girokonto/girokonto-verglei
 4. There is an option “Gemeinschaftskonto möglich” in the dropdown list under the next filtering option "Kontofeature". If “Gemeinschaftskonto möglich” is selected, it doesn’t display the DKB card. Please also show the DKB card if “Gemeinschaftskonto möglich” is selected. Again, don't change the order of the cards.
 
 
-**Once completed, submit to your github account and provide us with link.**
+**Once completed, submit to your github account and provide us with the link.**
 
 ## Have fun!
