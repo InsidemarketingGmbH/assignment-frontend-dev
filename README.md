@@ -8,11 +8,11 @@
 
 
 ### Preparation
-Please visit https://finanzvergleich.com/kostenloses-girokonto/girokonto-vergleich/ and clone the page from a browser. Clean-up all the unnecessary files and codes from the downloaded scripts so that it woulod be easy for you to work. But have to keep the original design, layout and content of the page. Or re-create the page with a front-end framework/ SPA framework by copying the necessary code from the cloned project.
+Please visit https://finanzvergleich.com/kostenloses-girokonto/girokonto-vergleich/ and clone (save locally) the page from a browser. Clean-up all the unnecessary files and codes from the downloaded scripts so that it woulod be easy for you to work. But have to keep the original design, layout and content of the page. Or re-create the page with a front-end framework/ SPA framework by copying the necessary code from the cloned project.
 
 
 ### Task description
-1. Fix the missing font of the page to complete the design.
+1. Fix the missing font of the page (in your cloned version) to complete the design.
 
 2. Get rid of the navigation menu, only keep the logo on the left as it is.
 
